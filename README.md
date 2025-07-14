@@ -36,8 +36,11 @@
 Run the script:
 
 bash
+
 Copy
+
 Edit
+
 python Autosort.py
 Watch the magic happen 🪄
 
@@ -45,22 +48,32 @@ Watch the magic happen 🪄
 Copy
 Edit
 Downloads/
+
 ├── Images/
+
 ├── Documents/
+
 ├── Videos/
+
 ├── Music/
+
 ├── Archives/
+
 ├── Installers/
+
 ├── Others/
+
 └── organizer_log.txt
 
 
 🔍 Use Cases
+
 Daily or weekly Downloads cleanup
-Automate organization for shared systems or work PCs
-Part of larger automation workflows (combine with file backup, cloud sync, etc.)
+
+Automate organization for shared systems or work PCsPart of larger automation workflows (combine with file backup, cloud sync, etc.)
 
 🌱 Future Improvements
+
 Add GUI version with progress bar using Tkinter or PyQt
 
 Drag-and-drop folder support
@@ -72,6 +85,7 @@ Add support for tagging or renaming files
 Scheduled cleanup (cronjob/task scheduler integration)
 
 🧠 Practical Applications
+
 Increases productivity by removing clutter
 
 Saves time in manually searching for files
